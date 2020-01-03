@@ -1,0 +1,22 @@
+---
+title: "README"
+
+---
+
+Main Scripts:
+
+- sim_cutoff_5.R
+- sim_cutoff_50.R
+- sim_exp_R
+
+Helper Functions:
+
+- tsls.R
+- fuller.R
+- lasso_shooting.R
+- lasso_shooting.cpp
+
+Misc:
+
+- result_init.R
+- result_save.R

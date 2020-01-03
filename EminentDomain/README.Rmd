@@ -1,0 +1,24 @@
+---
+title: "README"
+---
+
+Main Scripts:
+
+- RUN_GDP.R
+- RUN_CSHomePrice.R
+- RUN_FHFA.R
+- RUN_NonMetro.R
+
+Helper Functions:
+
+- lasso_shooting.R
+- lambda_search.R
+- hetero_se.R
+
+Mis:
+
+- instruments_cs.R
+- instruments_FHFA.R
+- instruments_gdp.R
+- instruments_nonmetro.R
+- probs.R
